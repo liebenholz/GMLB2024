@@ -8,6 +8,10 @@
 ## Project Description
 Video live streaming services are interactive media contents between streamers and viewers by live chats. As streamers are willing to manage chats smarter, intelligent chat bots are needed. This project is making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically, or check inappropriate texts and remove various types of spams.
 
+### Notice
+- This code uses private dataset with small amount of Korean live chat examples; approximately thousands of classified chats.
+- Since dataset for training includes Highly Profane Language, it won't be provided even from now on.
+
 ## Reference
 - Gemma2-2b-it model by **Google** : [Hugging Face](https://huggingface.co/google/gemma-2-2b-it)
 - AfreecaTV Chat Crawler by **Soohyun-Chae(cha2hyun)** : [GitHub Repo](https://github.com/cha2hyun/afreecatv-chat-crawler)
