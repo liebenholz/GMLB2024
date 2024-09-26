@@ -10,7 +10,7 @@ Video live streaming services are interactive media contents between streamers a
 
 ### Notice
 - This code uses private dataset with small amount of Korean live chat examples; approximately thousands of classified chats.
-- Since dataset for training includes Highly Profane Language, it won't be provided even from now on.
+- Our private dataset for training won't be provided.
 
 ## Reference
 - Gemma2-2b-it model by **Google** : [Hugging Face](https://huggingface.co/google/gemma-2-2b-it)
