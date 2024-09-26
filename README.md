@@ -17,3 +17,4 @@ Video live streaming services are interactive media contents between streamers a
 - AfreecaTV Chat Crawler by **Soohyun-Chae(cha2hyun)** : [GitHub Repo](https://github.com/cha2hyun/afreecatv-chat-crawler)
 - Question - Statement model by fine-tuned bert mini model by **Shahrukh Khan** :
 [Hugging Face](https://huggingface.co/shahrukhx01/bert-mini-finetune-question-detection)
+- Compare the performance of all Korean profanity/cursive discriminator by **Tanat** : [GitHub Repo](https://github.com/Tanat05/verification)
