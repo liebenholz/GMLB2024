@@ -3,7 +3,7 @@
 - Create a project outcome using Gemma2, which can be a model, code, app, or tutorial.
 - Participate individually or as a team of up to 3 people with original project idea.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Gemma-8E75B2?style=for-the-badge&logo=GoogleGemini&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Gemma-8E75B2?style=for-the-badge&logo=GoogleGemini&logoColor=white">
 
 ## Project Description
 Video live streaming services are interactive media contents between streamers and viewers by live chats. As streamers are willing to manage chats smarter, intelligent chat bots are needed. This project is making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically, or check inappropriate texts and remove various types of spams.
