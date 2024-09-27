@@ -8,9 +8,6 @@
 ## Project Description
 Video live streaming services are interactive media contents between streamers and viewers by live chats. As streamers are willing to manage chats smarter, intelligent chat bots are needed. This project is making live stream chat bots with Gemma2 2B model as AfreecaTV(SOOP) extension program in order to detect questions from live chats and answer them automatically, or check inappropriate texts and remove various types of spams.
 
-### Notice
-- This code uses private dataset with small amount of Korean live chat examples; approximately thousands of classified chats.
-
 ## Datasets
 Datasets are blended form public datasets below.
 - Korean Hate Chat from Discord by **Tanat** : [Kaggle Datasets](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data)
