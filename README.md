@@ -13,7 +13,7 @@ Video live streaming services are interactive media contents between streamers a
 
 ## Datasets
 Datasets are blended form public datasets below.
-- Korean Hate Chat for Discord by **Tanat** : [Kaggle Datasets](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data)
+- Korean Hate Chat from Discord by **Tanat** : [Kaggle Datasets](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data)
 - Korean Unsmile Dataset by **Smilegate** : [GitHub Repo](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file)
 
 ## Reference
