@@ -1,4 +1,4 @@
-# Intelligent Chat Bot for Korean Live Streaming Flatforms
+# Intelligent Chat Bot for Korean Live Streaming Platforms
 - Google Machine Learning Bootcamp 2024 Gemma Sprint Project
 - Create a project outcome using Gemma2, which can be a model, code, app, or tutorial.
 - Participate individually or as a team of up to 3 people with original project idea.
